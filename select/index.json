@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "いぶき",
+  "base_artist": "yama",
+  "createdAt": "2026-02-23T12:27:59.876728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いぶき",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_いぶき_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いぶき",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/02_いぶき_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いぶき",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_いぶき_yama.txt"
+    }
+  ]
+}
